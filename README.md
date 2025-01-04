@@ -1,7 +1,7 @@
-![MasterHead](https://www.geonetric.com/wp-content/uploads/ux_stratV3.1.jpg)
+![MasterHead](https://cdn.openart.ai/stable_diffusion/aebd3015cff00fa079a0e2ccf2fe141f811754d0_2000x2000.webp)
 <h1 align="center">Hi 👋, I'm Abdullah Zahid</h1>
-<h3 align="center">A passionate Cyber Security from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807")
+<h3 align="center">A Passionate Cyber Security From India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah0617&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah0617" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
