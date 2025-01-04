@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-photo/metaverse-city-cyberpunk-concept-3d-render_84831-968.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Abdullah Zahid</h1>
-<h3 align="center">A Passionate Cyber Security From India</h3>
+<h3 align="center">A Passionate Cyber Security Student From India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/35/f5/91/35f5911b6761ecd292e0ee9b8596b69f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah0617&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah0617" /> </p>
 
