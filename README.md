@@ -1,4 +1,4 @@
-![MasterHead](https://www.rx8ownersclub.co.uk/forum/images/banners/loading_animation.gif)
+![MasterHead](https://www.geonetric.com/wp-content/uploads/ux_stratV3.1.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Zahid</h1>
 <h3 align="center">A passionate Cyber Security from India</h3>
 (img align="right" alt="Coding" width="400" src="https://www.deviantart.com/archipics/art/Boyfriend-s-Room-884665807)
